@@ -1,7 +1,7 @@
 =================
-This is where I store all my solutions for <b>projecteuler.net</b>. I use project euler to test my problemsolving skills on new languages i've learned. In short, its my benchmarking/proving ground for new languages I've "aquired".
-ProjectEuler is my excuse for doing recreational-math which allows me
-to work on my problemsolving skills while understanding math in a fun and engaging way.
+This is where I store all my solutions for <b>projecteuler.net</b>. I use project euler as my benchmarking/proving ground for new languages I've "aquired".
+ProjectEuler is also my excuse for doing recreational-math which allows me
+to work on my problemsolving skills while understanding/forcing-me-to-learn about math in a fun and engaging way.
 
 
 
