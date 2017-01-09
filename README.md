@@ -1,7 +1,7 @@
 =================
 This is where I store all my solutions for <b>projecteuler.net</b>.
-ProjectEuler is my excuse for doing recreational-math which allows me
-to work on my problemsolving skills while understanding math in a fun and engaging way.
+ProjectEuler is my excuse for doing recreational-math, allowing me
+to work on my problem solving skills and finding out which areas of a computer language and math concepts I still need to work on.
 
 
 
